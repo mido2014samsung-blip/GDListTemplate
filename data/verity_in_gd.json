@@ -1,0 +1,18 @@
+{
+    "id": 149730885,
+    "name": "Verity In GD",
+    "author": "o0o4484",
+    "creators": ["o0o4484"],
+    "verifier": "o0o4484",
+    "verification": "https://www.youtube.com/watch?v=GkuvNc2TPnk",
+    "percentToQualify": 77,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=GkuvNc2TPnk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
